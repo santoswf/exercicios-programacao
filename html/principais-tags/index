@@ -1,0 +1,15 @@
+--No mundo da programação existem diversas tags, porém, abaixo vou apresantar algumas para darmos nosso primeiro passo na
+programação.
+
+<h1></h1> - Está é a tag h1, ela é usada geralmente para títulos, ou, uma parte que queremos apresentar uma ênfase
+maior.
+
+<p></p> - A tag p, é justamente isto que você está pensando, uma tag para delimitarmos nosso parágrafo, através dela
+conseguimos entender oque é um paragrafo e o que não é.
+
+<div></div> - Talvez a tag mais conhecida por todos, está tag tem suma importância no mundo da programação, ela vai além
+da estetíca, como nas tags mencionadas acima, ela exerce um papel de "divisão" e organizaçao de nossa aplicação ou site,
+com certeza essa sera sua tag mais usada durante toda sua jornada de nossos exercícios.
+
+<a></a> - A tag a, mais conhecida como a tag dos "Links", mas o seu nome vem de âncora, pois ela faz o redirecionameto
+entre uma página e outra, ela também sera amplamente usando em nossos exercícios.
